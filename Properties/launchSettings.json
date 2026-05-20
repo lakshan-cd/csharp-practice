@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "C#Practise": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

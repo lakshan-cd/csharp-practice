@@ -1,0 +1,19 @@
+# Build folders
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Application settings
+appsettings.Local.json
