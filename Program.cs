@@ -2,5 +2,8 @@
 using C_Practise.variables;
 
 LiteralsDataTypes.PrintData();
-Console.WriteLine("============================Varibles=======================");
+Console.WriteLine("============================Varibles=============================");
 Variables.printVariables();
+
+Console.WriteLine("============================Excercise=============================");
+Excersice1.printWord();
