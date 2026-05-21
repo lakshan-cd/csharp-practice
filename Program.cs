@@ -1,4 +1,5 @@
-﻿using C_Practise.stringformating;
+﻿using C_Practise.aithmeticoperation;
+using C_Practise.stringformating;
 using C_Practise.stringpractice;
 using C_Practise.variables;
 
@@ -14,3 +15,9 @@ Console.WriteLine("============================String Formating=================
 //StringConcat.stringConcat();
 //StringConcatIntepolation.pringUsingInterpolation();
 StringFormatExcercise.stringFormatExcercise1();
+
+
+Console.WriteLine("============================Arithmetic Formating=============================");
+DivisionPractice.divisionPrint();
+IncrementDecrement.printIncrementDecrement();
+ExcerciseFranhite.convertToCelcius();
