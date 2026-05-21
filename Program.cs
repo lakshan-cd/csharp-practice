@@ -1,4 +1,5 @@
-﻿using C_Practise.stringpractice;
+﻿using C_Practise.stringformating;
+using C_Practise.stringpractice;
 using C_Practise.variables;
 
 LiteralsDataTypes.PrintData();
@@ -7,3 +8,9 @@ Variables.printVariables();
 
 Console.WriteLine("============================Excercise=============================");
 Excersice1.printWord();
+
+Console.WriteLine("============================String Formating=============================");
+//StringFormating.stringFormating();
+//StringConcat.stringConcat();
+//StringConcatIntepolation.pringUsingInterpolation();
+StringFormatExcercise.stringFormatExcercise1();
